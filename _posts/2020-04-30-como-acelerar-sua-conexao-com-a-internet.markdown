@@ -2,7 +2,7 @@
 layout: post
 title: "Como acelerar sua conexão com a Internet: dicas simples para melhorar a velocidade"
 
-date: '2019-01-01 10:24:04 -0300'
+date: '2020-04-30 08:20:00 -0300'
 categories:
 - Tecnologia
 ---
@@ -21,7 +21,7 @@ Desligar e ligar as máquinas novamente é o ponto de partida comum dos conselho
 
 ### Instale um software antivírus
 
-É possível que você tenha baixado algo que não deveria e instalou um malware no seu computador. Normalmente, o malware sequestra sua largura de banda, o que diminui sua conexão com a Internet. Se você ainda não usa um [software antivírus](https://www.10melhoresantivirus.com/melhores-antivirus-gratis?gclid=CjwKCAjw29vsBRAuEiwA9s-0B-gS0zazW-qnIWIy4R9s905QkOmEtnmV3HugSVM8fpK7Mqe_QcniDxoC9n8QAvD_BwE), está colocando em risco informações seguras, como senhas e informações de contas bancárias, além de diminuir a velocidade da sua conexão à Internet.
+É possível que você tenha baixado algo que não deveria e instalou um malware no seu computador. Normalmente, o malware sequestra sua largura de banda, o que diminui sua conexão com a Internet. Se você ainda não usa um [software antivírus](https://www.10melhoresantivirus.com/melhores-antivirus-gratis), está colocando em risco informações seguras, como senhas e informações de contas bancárias, além de diminuir a velocidade da sua conexão à Internet.
 
 ### Use uma conexão com fio
 
