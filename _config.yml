@@ -24,14 +24,14 @@ kramdown:
 # Site settings
 title: "Warley"
 description: Artigos e tutoriais sobre desenvolvimento WEB
-logo: http://gravatar.com/avatar/67a6eb9b43b617b2051b912b8373a156?s=120
+logo: https://lh3.googleusercontent.com/a-/AOh14Gi9a61q-Zonw0_B4AsHcKN4aK_hzlnHDq5b7gFsHpw=s96-c-rg-br100
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 url: "https://warleyerocha.github.io"
 
 # Default author
 author:
   name: Warley Rocha
-  image: http://gravatar.com/avatar/67a6eb9b43b617b2051b912b8373a156?s=120
+  image: https://lh3.googleusercontent.com/a-/AOh14Gi9a61q-Zonw0_B4AsHcKN4aK_hzlnHDq5b7gFsHpw=s96-c-rg-br100
 
 # social icons and sharing options
 social:
