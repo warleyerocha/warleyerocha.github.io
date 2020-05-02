@@ -22,15 +22,15 @@ kramdown:
   input: GFM
 
 # Site settings
-title: "Thiago Belem / Blog"
+title: "Warley"
 description: Artigos e tutoriais sobre desenvolvimento WEB
 logo: http://gravatar.com/avatar/67a6eb9b43b617b2051b912b8373a156?s=120
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-url: "http://blog.thiagobelem.net"
+url: "https://warleyerocha.github.io"
 
 # Default author
 author:
-  name: Thiago Belem
+  name: Warley Rocha
   image: http://gravatar.com/avatar/67a6eb9b43b617b2051b912b8373a156?s=120
 
 # social icons and sharing options
